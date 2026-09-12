@@ -136,6 +136,16 @@ Supply-Chain-Analytics-SQL/
 │
 ├── 01_Create_Tables.sql
 ├── 02_Insert_Supply_Chain_Data.sql
+
+
+sql
+mysql
+data-analysis
+supply-chain
+business-analytics
+data-analytics
+sql-project
+portfolio-project
 ├── 03_Analysis_Queries.sql
 ├── Supply_Chain_Dataset_100_Records.xlsx
 └── README.md
